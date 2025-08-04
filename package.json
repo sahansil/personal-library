@@ -1,0 +1,18 @@
+{
+  "name": "personal-library",
+  "version": "1.0.0",
+  "author": "sahansil humagain",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node --watch main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
